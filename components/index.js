@@ -10,6 +10,8 @@ import {
   EndDate,
   SubInfo,
 } from "./SubInfo";
+import DetailsDesc from "./DetailsDesc";
+import DetailsBid from "./DetailsBid";
 
 export {
   FocusedStatusBar,
@@ -23,4 +25,6 @@ export {
   People,
   EndDate,
   SubInfo,
+  DetailsDesc,
+  DetailsBid,
 };
